@@ -7,7 +7,7 @@ this is a custom hud for fivem servers with new images,format,fonts,...
 - IR Pixel
 - Moonlight City
 - Mad City
-and... are using this hud :)
+ and... are using this hud :)
 ## Features
 - Change The Hud Coler Easily
 - Change Fonts
