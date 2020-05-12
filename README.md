@@ -9,7 +9,7 @@ this is a custom hud for fivem servers with new images,format,fonts,...
 - Mad City
  and... are using this hud :)
 ## Features
-- Change The Hud Coler Easily
+- Change The Hud Color Easily
 - Change Fonts
 - Change Job Images
 - Change Everything :)
