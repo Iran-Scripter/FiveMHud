@@ -14,8 +14,8 @@ this is a custom hud for fivem servers with new images,format,fonts,...
 - Change Job Images
 - Change Everything :)
 ## Installation
-Drag And Drop Into Your Resource Folder And Execute The SQL File Into Your Database
--Install Requirements
+- Drag And Drop Into Your Resource Folder And Execute The SQL File Into Your Database
+- Install Requirements
 ## Requirements
 - async
 - es_extended
